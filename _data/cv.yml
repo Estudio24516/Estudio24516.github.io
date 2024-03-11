@@ -10,8 +10,8 @@
   type: time_table
   contents:
     - title: Master
-      institution: University of Michigan at Ann Arbor
-      year: 2022-2024
+      institution: University of Michigan at Ann Arbor, Ann Arbor, Michigan
+      year: 2022
       description:
         - Description 1.
         - Description 2.
@@ -19,9 +19,9 @@
           contents:
             - Sub-description 1.
             - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+    - title: Undergraduate
+      institution: Beijing Foreign Studies University, Beijing, China
+      year: 2018
       description:
         - Description 1.
         - Description 2.
