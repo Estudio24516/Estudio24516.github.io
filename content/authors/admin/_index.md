@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 郭妍汝
+title: Yanru Guo
 
 # Name pronunciation (optional)
 name_pronunciation: Yan Roo Gwo
@@ -17,7 +17,7 @@ status:
 superuser: true
 
 # Highlight the author in author lists? (true/false)
-highlight_name: true
+highlight_name: false
 
 # Role/position/tagline
 role: PhD Student
@@ -47,9 +47,9 @@ profiles:
 #    url: https://orcid.org/
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Stochastic Optimization
+  - Distributionally Robust Optimization
+  - Healthcare Operations
 
 education:
   - area: PhD in Industrial and Operations Engineering
@@ -128,9 +128,9 @@ skills:
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: Cooking
         description: ''
-        percent: 60
+        percent: 70
         icon: person-simple-walk
       - name: Cats
         description: ''
@@ -185,4 +185,4 @@ awards:
 
 ## About Me
 
-Hello! I am a PhD student in Industrial and Operations Engineering at University of Michigan, Ann Arbor. My research interests include stochastic optimization and xxx.
+Hello! I am a PhD student in Industrial and Operations Engineering at University of Michigan, Ann Arbor.
