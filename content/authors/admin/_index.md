@@ -55,7 +55,7 @@ education:
   - area: PhD in Industrial and Operations Engineering
     institution: University of Michigan
     date_start: 2024-08-01
-    date_end: Present
+    date_end: 2028-05-05
 #    summary: |
 #      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
 #    button:
@@ -72,12 +72,12 @@ education:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. in Information Systems and Information Management
+    institution: Beijing Foreign Studies University
+    date_start: 2018-09-01
+    date_end: 2022-06-30
     summary: |
-      GPA: 3.4/4.0
+      GPA: 3.8/4.0
       
       Courses included:
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
